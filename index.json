@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-clca",
+  "versions": [
+    {
+      "commit": "f77a266b03229cae5692da6052137dd92b0516a9",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:52:09.795638+00:00"
+    }
+  ]
+}
