@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2025-clca/commit/f77a266b03229cae5692da6052137dd92b0516a9",
       "git:hexsha": "f77a266b03229cae5692da6052137dd92b0516a9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
